@@ -11,52 +11,52 @@ requires:
 entries:
   - archetype:
       description: "AI Agent Architecture"
-      source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+      source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
   - group:
       description: "Copilots"
       entries:
         - archetype:
             description: "Search Copilot"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Synthetic Persona Copilot"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Social Copilot (Talkwalker, Corto)"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "News Copilot (NewsAPI)"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Financial Copilot (Edgar 10ks)"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Audio Transcripts Copilot (e.g. Earnings Calls)"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
   - group:
       description: "LLM Models"
       entries:
         - archetype:
             description: "OpenAI Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Mistral AI Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "Llama2 Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "CodeLlama Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
   - group:
       description: "Embedding Models"
       entries:
         - archetype:
             description: "OpenAI Embedding Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "bge small Embedding Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.git
         - archetype:
             description: "bge large Embedding Model"
-            source: git@github.com:p6m-dev/python-project-scaffolding.archetype.git
+            source: git@github.com:p6m-archetypes/python-project-scaffolding.archetype.gi

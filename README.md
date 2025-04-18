@@ -7,5 +7,5 @@
 To generate an Archetype from this Catalog, copy and execute the following command:
 
 ```sh
-archetect render git@github.com:p6m-dev/aiml.catalog.git
+archetect render git@github.com:p6m-archetypes/aiml.catalog.git
 ```
